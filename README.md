@@ -1,13 +1,38 @@
-# PartnerSeeker
-Oleh Kelompok 13:
-- <a href="http://bit.ly/vanness-zhong-a">Vanness Zhong Anthony</a> (0706012010010) <a href="https://github.com/vanness7890">@vanness7890</a>
-- <a href="http://bit.ly/nathanaelabel">Nathanael Abel Arianto</a> (0706012010029) <a href="https://github.com/Maumau20">@Maumau20</a>
-- <a href="https://s.id/cahyaa">Probo Krishnacahya</a> (0706012010039) <a href="https://github.com/cahyaa02">@cahyaa02</a>
+# PartnerSeeker  
 
-Website Dinamis yang dibuat menggunakan
-- Bahasa pemrograman: PHP v7.4.16, MySQL.
-- Bahasa Markup: HTML5.
-- Bahasa Styling: CSS3.
-- Code Editor: Visual Studio Code v1.58.1.
+**Dynamic web application** that connects **freelancers** with **clients** for project-based collaboration.  
 
-PartnerSeeker adalah website yang menjembatani antara pihak freelancer (pekerja lepas) dengan pihak klien yaitu perekrut/pencari freelancer agar dapat saling bekerja sama sesuai kebutuhan proyek. Para freelancer dapat mengunggah profil diri dan portofolio agar dapat dieksplor oleh pengunjung website sehingga klien dapat menemukan penyedia jasa yang cocok.
+---
+
+## 🧑‍💻 Developed by  
+- [Nathanael Abel Arianto](https://www.linkedin.com/in/nathanaelabel/)  
+- [Probo Krishnacahya](https://www.linkedin.com/in/probo-krishnacahya/)  
+
+---
+
+## 📖 About the Project  
+**PartnerSeeker** was developed as part of the **Final Semester Examination (UAS) for Web Programming** in the **2020/2021 (Even Semester)** academic year.  
+
+This platform acts as a **bridge between freelancers and clients**, allowing them to collaborate based on project needs.  
+- **Freelancers** can create a profile and showcase their portfolio.  
+- **Clients** can browse freelancer profiles to find the right match for their projects.  
+
+
+---
+
+## 🛠️ Technologies Used  
+- **Programming Language:** PHP v7.4.16, MySQL  
+- **Markup & Styling:** HTML5, CSS3  
+- **Development Environment:** Visual Studio Code v1.58.1  
+
+---
+
+## 🚀 Features  
+- Freelancer profile creation  
+- Portfolio showcase  
+- Client-freelancer matching system  
+- Dynamic content with database integration  
+
+---
+
+📌 **Note:** This project was built for academic purposes and is no longer being actively maintained.  
